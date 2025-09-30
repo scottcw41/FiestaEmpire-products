@@ -3,9 +3,35 @@
 <head>
 <meta charset="UTF-8">
 <title>Fiesta Empire</title>
+<div></div>
 <h1 style="font-family: Verdana, sans-serif; color: mediumseagreen;">
-  Entrees and Sides Choices
+  Entrees and Sides
 </h1>
-
-
 </head>
+<div></div>
+<h2 style="font-family: Times New Roman, sans-serif; color: mediumseagreen;">
+  Entrees
+</h2>
+<div></div>
+<h3 style="font-family: Times New Roman, sans-serif; color: mediumseagreen;">
+  Beef Picadillo
+<div></div>
+<p style="font-family: Courier, sans-serif; color: mediumseagreen;">
+  Seasoned ground beef cooked with onions, garlic, tomatoes, and mild spices. Juicy and flavorful, perfect for tacos or loaded nachos.
+</p>
+<div></div>
+<h4 style="font-family: Times New Roman, sans-serif; color: mediumseagreen;">
+  Shredded Chicken Tinga
+<div></div>
+<p style="font-family: Courier, sans-serif; color: mediumseagreen;">
+  Tender shredded chicken simmered in a smoky chipotle-tomato sauce. A crowd favorite with a hint of heat and bold flavor.
+</p>
+<div></div>
+<h4 style="font-family: Times New Roman, sans-serif; color: mediumseagreen;">
+  Carne Asada
+<div></div>
+<p style="font-family: Courier, sans-serif; color: mediumseagreen;">
+ Marinated flank steak grilled to perfection, sliced thin for easy serving. Rich, savory, and packed with authentic Mexican flavor.
+</p>
+
+
